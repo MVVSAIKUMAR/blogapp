@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className={`${darkMode ? `Dark2` : "Light"}`}>
       <hr />
-      <h3>© 2022 Shanthakumar. All rights reserved.</h3>
+      <h3>© 2022 MANDA VEERA VENKATA SAI KUMAR. All rights reserved.</h3>
     </footer>
   )
 }

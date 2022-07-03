@@ -61,7 +61,7 @@ export default function ShowArticle() {
                 <div className="authorDetails">
                   <img src={AuthorImage} alt="author" className="authorImage" />
                   <div>
-                    <p className="authorName">{item.author}</p>
+                    <p className="authorName">SAI KUMAR</p>
                     <div>
                       <small>{item.date}</small> .{" "}
                       <small>{item.readTime}</small>
@@ -125,7 +125,7 @@ export default function ShowArticle() {
                 <img src={AuthorImage} alt="author" className="authorImage" />
                 <div>
                   <p className="writtenBy">WRITTEN BY</p>
-                  <p className="authorName">{item.author}</p>
+                  <p className="authorName">SAI KUMAR</p>
                   <div>
                     <small>{item.date}</small> . <small>{item.readTime}</small>
                   </div>

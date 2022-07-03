@@ -40,7 +40,7 @@ export default function RelatedArticles() {
               <div className="authorDetails">
                 <img src={AuthorImage} alt="author" className="authorImage" />
                 <div>
-                  <p className="authorName">{item.author}</p>
+                  <p className="authorName">SAI KUMAR</p>
                   <div className="writtenTime">
                     <small>{item.date}</small> . <small>{item.readTime}</small>
                   </div>
